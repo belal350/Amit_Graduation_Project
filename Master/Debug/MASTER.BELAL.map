@@ -1,0 +1,714 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                              ./BLUETOOTH_UART.o (__udivmodsi4)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+                              ./Masrter.o (__do_copy_data)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+                              ./BLUETOOTH_UART.o (__do_clear_bss)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              ./SPI_program.o (__ltsf2)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              ./SPI_program.o (__fixunssfsi)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              ./SPI_program.o (__gtsf2)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ./SPI_program.o (__mulsf3)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD ./BLUETOOTH_UART.o
+LOAD ./DIO_program.o
+LOAD ./Masrter.o
+LOAD ./SPI_program.o
+START GROUP
+LOAD e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a
+LOAD e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a
+LOAD e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a
+LOAD e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x1a3c
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000060       0x16 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+                0x0000000000000060                __do_copy_data
+ .init4         0x0000000000000076       0x10 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000000000000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000086        0x8 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000008e        0x4 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x000000000000008e                __vector_1
+                0x000000000000008e                __bad_interrupt
+                0x000000000000008e                __vector_6
+                0x000000000000008e                __vector_3
+                0x000000000000008e                __vector_11
+                0x000000000000008e                __vector_17
+                0x000000000000008e                __vector_19
+                0x000000000000008e                __vector_7
+                0x000000000000008e                __vector_5
+                0x000000000000008e                __vector_4
+                0x000000000000008e                __vector_9
+                0x000000000000008e                __vector_2
+                0x000000000000008e                __vector_15
+                0x000000000000008e                __vector_8
+                0x000000000000008e                __vector_10
+                0x000000000000008e                __vector_16
+                0x000000000000008e                __vector_18
+                0x000000000000008e                __vector_20
+ .text          0x0000000000000092        0x0 ./BLUETOOTH_UART.o
+ .text          0x0000000000000092        0x0 ./DIO_program.o
+ .text          0x0000000000000092        0x0 ./Masrter.o
+ .text          0x0000000000000092        0x0 ./SPI_program.o
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x0000000000000092        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000000000000092                . = ALIGN (0x2)
+ *(.text.*)
+ .text.compareString
+                0x0000000000000092       0x7e ./BLUETOOTH_UART.o
+                0x0000000000000092                compareString
+ .text.H__bluetooth_init
+                0x0000000000000110      0x2fa ./BLUETOOTH_UART.o
+                0x0000000000000110                H__bluetooth_init
+ .text.H__bluetooth_sendByteBusyWait
+                0x000000000000040a       0xca ./BLUETOOTH_UART.o
+                0x000000000000040a                H__bluetooth_sendByteBusyWait
+ .text.H__bluetooth_recieveByteBusyWait
+                0x00000000000004d4       0xda ./BLUETOOTH_UART.o
+                0x00000000000004d4                H__bluetooth_recieveByteBusyWait
+ .text.H__bluetooth_RecieveCallBack
+                0x00000000000005ae       0x5e ./BLUETOOTH_UART.o
+                0x00000000000005ae                H__bluetooth_RecieveCallBack
+ .text.__vector_13
+                0x000000000000060c      0x104 ./BLUETOOTH_UART.o
+                0x000000000000060c                __vector_13
+ .text.H__bluetooth_SendCallBack
+                0x0000000000000710       0x5e ./BLUETOOTH_UART.o
+                0x0000000000000710                H__bluetooth_SendCallBack
+ .text.__vector_14
+                0x000000000000076e       0x92 ./BLUETOOTH_UART.o
+                0x000000000000076e                __vector_14
+ .text.UART_Transmit
+                0x0000000000000800       0x40 ./BLUETOOTH_UART.o
+                0x0000000000000800                UART_Transmit
+ .text.MCAL_DIO_u8SetPinDir
+                0x0000000000000840      0x17c ./DIO_program.o
+                0x0000000000000840                MCAL_DIO_u8SetPinDir
+ .text.MCAL_DIO_u8SetPortDir
+                0x00000000000009bc       0x7e ./DIO_program.o
+                0x00000000000009bc                MCAL_DIO_u8SetPortDir
+ .text.MCAL_DIO_u8SetPinValue
+                0x0000000000000a3a      0x17c ./DIO_program.o
+                0x0000000000000a3a                MCAL_DIO_u8SetPinValue
+ .text.MCAL_DIO_u8SetPortValue
+                0x0000000000000bb6       0x7e ./DIO_program.o
+                0x0000000000000bb6                MCAL_DIO_u8SetPortValue
+ .text.MCAL_DIO_u8GetPinValue
+                0x0000000000000c34      0x110 ./DIO_program.o
+                0x0000000000000c34                MCAL_DIO_u8GetPinValue
+ .text.MCAL_DIO_u8GetPortValue
+                0x0000000000000d44       0x9a ./DIO_program.o
+                0x0000000000000d44                MCAL_DIO_u8GetPortValue
+ .text.MCAL_DIO_u8SetPinInputType
+                0x0000000000000dde      0x17c ./DIO_program.o
+                0x0000000000000dde                MCAL_DIO_u8SetPinInputType
+ .text.MCAL_DIO_u8SetPortInputType
+                0x0000000000000f5a       0x7e ./DIO_program.o
+                0x0000000000000f5a                MCAL_DIO_u8SetPortInputType
+ .text.main     0x0000000000000fd8       0x4c ./Masrter.o
+                0x0000000000000fd8                main
+ .text.SEND     0x0000000000001024       0xa2 ./Masrter.o
+                0x0000000000001024                SEND
+ .text.MCAL_SPI_MasterInit
+                0x00000000000010c6      0x140 ./SPI_program.o
+                0x00000000000010c6                MCAL_SPI_MasterInit
+ .text.MCAL_SPI_SlaveInit
+                0x0000000000001206       0xa2 ./SPI_program.o
+                0x0000000000001206                MCAL_SPI_SlaveInit
+ .text.MCAL_SPI_Master_DataBusyWait
+                0x00000000000012a8       0xa0 ./SPI_program.o
+                0x00000000000012a8                MCAL_SPI_Master_DataBusyWait
+ .text.MCAL_SPI_Slave_DataBusyWait
+                0x0000000000001348       0x8c ./SPI_program.o
+                0x0000000000001348                MCAL_SPI_Slave_DataBusyWait
+ .text.MCAL_SPI_Master_DataCallBack
+                0x00000000000013d4       0x84 ./SPI_program.o
+                0x00000000000013d4                MCAL_SPI_Master_DataCallBack
+ .text.MCAL_SPI_Slave_DataCallBack
+                0x0000000000001458       0x78 ./SPI_program.o
+                0x0000000000001458                MCAL_SPI_Slave_DataCallBack
+ .text.MCAL_SPI_MasterString
+                0x00000000000014d0      0x190 ./SPI_program.o
+                0x00000000000014d0                MCAL_SPI_MasterString
+ .text.MCAL_SPI_SlaveString
+                0x0000000000001660       0x6c ./SPI_program.o
+                0x0000000000001660                MCAL_SPI_SlaveString
+ .text.__vector_12
+                0x00000000000016cc       0xf2 ./SPI_program.o
+                0x00000000000016cc                __vector_12
+ .text.libgcc.mul
+                0x00000000000017be        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000000017be       0x44 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000000000017be                __udivmodsi4
+ .text.libgcc   0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000001802        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.avr-libc.fplib
+                0x0000000000001802        0xa e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x0000000000001802                __nesf2
+                0x0000000000001802                __eqsf2
+                0x0000000000001802                __cmpsf2
+                0x0000000000001802                __ltsf2
+                0x0000000000001802                __lesf2
+ .text.avr-libc.fplib
+                0x000000000000180c       0x5e e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000000000000180c                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000000000000186a       0x48 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x000000000000186a                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000000000018b2       0x44 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00000000000018b2                __fp_split3
+                0x00000000000018c2                __fp_splitA
+ .text.avr-libc.fplib
+                0x00000000000018f6        0xe e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00000000000018f6                __fp_zero
+                0x00000000000018f8                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000001904        0xa e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x0000000000001904                __gesf2
+                0x0000000000001904                __gtsf2
+ .text.avr-libc.fplib
+                0x000000000000190e        0x8 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000000000000190e                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000001916       0xd2 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000000000001934                __mulsf3x
+                0x000000000000193a                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00000000000019e8        0xc e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000000000019e8                __fp_inf
+ .text.avr-libc.fplib
+                0x00000000000019f4        0x6 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000000000019f4                __fp_nan
+ .text.avr-libc.fplib
+                0x00000000000019fa        0xe e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00000000000019fa                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000000000001a08        0xe e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000000000001a08                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000000000001a16       0x22 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000000000001a16                __fp_round
+                0x0000000000001a38                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000001a38        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+                0x0000000000001a38                _exit
+                0x0000000000001a38                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000001a38        0x4 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x0000000000001a3c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x0000000000001a3c                _etext = .
+
+.data           0x0000000000800060        0x8 load address 0x0000000000001a3c
+                0x0000000000800060                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x0000000000800060        0x0 ./BLUETOOTH_UART.o
+ .data          0x0000000000800060        0x0 ./DIO_program.o
+ .data          0x0000000000800060        0x0 ./Masrter.o
+ .data          0x0000000000800060        0x0 ./SPI_program.o
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0000000000800060        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.data*)
+ .data.g_MasterMode
+                0x0000000000800060        0x1 ./SPI_program.o
+                0x0000000000800060                g_MasterMode
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0000000000800061        0x6 ./Masrter.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800068                . = ALIGN (0x2)
+ *fill*         0x0000000000800067        0x1 
+                0x0000000000800068                _edata = .
+                0x0000000000800068                PROVIDE (__data_end = .)
+
+.bss            0x0000000000800068        0xa
+                0x0000000000800068                PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x0000000000800068        0x0 ./BLUETOOTH_UART.o
+ .bss           0x0000000000800068        0x0 ./DIO_program.o
+ .bss           0x0000000000800068        0x0 ./Masrter.o
+ .bss           0x0000000000800068        0x0 ./SPI_program.o
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0000000000800068        0x0 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.bss*)
+ .bss.g_FlagMode
+                0x0000000000800068        0x1 ./BLUETOOTH_UART.o
+                0x0000000000800068                g_FlagMode
+ .bss.g_CharacterSize
+                0x0000000000800069        0x1 ./BLUETOOTH_UART.o
+                0x0000000000800069                g_CharacterSize
+ .bss.UART_UDR_CallBack
+                0x000000000080006a        0x2 ./BLUETOOTH_UART.o
+ .bss.UART_RX_CallBack
+                0x000000000080006c        0x2 ./BLUETOOTH_UART.o
+ .bss.Call_Back_Master
+                0x000000000080006e        0x2 ./SPI_program.o
+ .bss.Call_Back_Slave
+                0x0000000000800070        0x2 ./SPI_program.o
+ *(COMMON)
+                0x0000000000800072                PROVIDE (__bss_end = .)
+                0x0000000000001a3c                __data_load_start = LOADADDR (.data)
+                0x0000000000001a44                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800072        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x0000000000800072                _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x1fe0
+ *(.stab)
+ .stab          0x0000000000000000      0xa80 ./BLUETOOTH_UART.o
+ .stab          0x0000000000000a80      0x99c ./DIO_program.o
+                                        0x9a8 (size before relaxing)
+ .stab          0x000000000000141c      0x240 ./Masrter.o
+                                        0x24c (size before relaxing)
+ .stab          0x000000000000165c      0x984 ./SPI_program.o
+                                        0x990 (size before relaxing)
+
+.stabstr        0x0000000000000000      0xe09
+ *(.stabstr)
+ .stabstr       0x0000000000000000      0xe09 ./BLUETOOTH_UART.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x12
+ *(.comment)
+ .comment       0x0000000000000000       0x12 ./BLUETOOTH_UART.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 ./DIO_program.o
+ .comment       0x0000000000000012       0x13 ./Masrter.o
+ .comment       0x0000000000000012       0x13 ./SPI_program.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x80
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x0000000000000020       0x20 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000040       0x20 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x0000000000000060       0x20 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x57e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x00000000000004e6       0x26 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_info    0x000000000000050c       0x26 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x0000000000000532       0x26 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x0000000000000558       0x26 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_abbrev   0x0000000000000000      0x4f3
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x00000000000004a3       0x14 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00000000000004b7       0x14 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000004cb       0x14 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000000004df       0x14 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_line     0x0000000000000000      0x2bb
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x000000000000001d      0x121 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_line    0x000000000000013e       0x61 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x000000000000019f       0x97 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x0000000000000236       0x85 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x1f8
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x199 e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x0000000000000199       0x5f e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_str     0x00000000000001f8       0x5f e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_str     0x00000000000001f8       0x5f e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_str     0x00000000000001f8       0x5f e:/embeded system course/17/interface/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(MASTER.BELAL.elf elf32-avr)
+LOAD linker stubs
